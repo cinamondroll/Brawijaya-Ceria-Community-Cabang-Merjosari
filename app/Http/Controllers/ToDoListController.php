@@ -83,7 +83,7 @@ class ToDoListController extends Controller
                 "id" => 1,
                 "title" => "Tugas membuat ayam krispi",
                 "description" => "Membuat ayam krispi yang sangat mirip atau identik dengan ayam krispi kfc",
-                "deadline" => "2026-3-17",
+                "deadline" => "2026-03-17",
                 "priority" => "high",
                 "status" => "in_progress"
             ],
@@ -91,7 +91,7 @@ class ToDoListController extends Controller
                 "id" => 2,
                 "title" => "Tugas membuat Nasi goreng kediri",
                 "description" => "membuat nasi goreng seenak penjual nasi goreng di depan bandung collection",
-                "deadline" => "2026-3-18",
+                "deadline" => "2026-03-18",
                 "priority" => "medium",
                 "status" => "pending"
             ]
